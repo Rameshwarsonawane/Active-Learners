@@ -29,7 +29,7 @@ Icons: Font Awesome
 1. Clone the repository
 Bash
 
-git clone https://github.com/your-username/active-learner.git
+git clone https://github.com/Rameshwarsonawane/Active-Learner.git
 cd active-learner
 2. Install dependencies
 Bash
@@ -56,19 +56,12 @@ Plaintext
 ├── lib/              # Supabase client and DB utility functions
 ├── public/           # Static assets (images, icons)
 └── types/            # TypeScript interfaces and definitions
-📈 Roadmap
-[ ] User Profile Picture Upload.
-
-[ ] Dark/Light Mode Toggle.
-
-[ ] Video Player integration for Lessons.
-
-[ ] Peer Comparison / Leaderboard.
 
 🤝 Contributing
 Contributions are welcome! If you have ideas for new features or improvements, feel free to open an issue or submit a Pull Request.
 
 📄 License
 This project is licensed under the MIT License.
+
 
 Made with ❤️ by Rameshwar Sonawane
